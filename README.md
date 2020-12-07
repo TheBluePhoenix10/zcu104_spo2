@@ -2,8 +2,7 @@
 Python based, face detection and tracking example application using VART API.
 
 Hackster.IO project description:
-	• Face Detection and Tracking in python for Ultra96-V2
-		○ {TBD}
+	• Face Detection and Tracking in python for ZCU104
 
 Additional required packages:
 	• imutils-0.5.3.tar.gz
