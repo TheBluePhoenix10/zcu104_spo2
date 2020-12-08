@@ -1,4 +1,4 @@
-# face_py_vart
+# SPO2 measurement with VART based face detection Hardware acceleration
 Python based, face detection and tracking example application using VART API.
 
 Hackster.IO project description:
